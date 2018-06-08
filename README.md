@@ -1,4 +1,4 @@
-# vincent.github.io
+# vincent.ai
 AI project to support elderly people welfare
 
 <b>Origin</b>
